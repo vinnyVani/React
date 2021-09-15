@@ -1,0 +1,41 @@
+.top1{
+  background-color: rgb(236, 235, 235);
+}
+.jordan{
+  height: 25px;
+  width :20px;
+ margin-left: 50px;
+ margin-top: 5px;
+ margin-bottom: 5px;
+ background: transparent;
+}
+.jordann{
+  height: 37px;
+  width :80px;
+ margin-left: 35px;
+ margin-top: 5px;
+ margin-bottom: 5px;
+ background: transparent;
+}
+
+.left{
+  position:absolute;
+  right: 40px;
+outline:none;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.bt{
+  border: none;
+  background: transparent;
+  outline: none;
+}
+.navbar.center .navbar-inner {
+  text-align: center;
+}
+.navbar.center .navbar-inner .nav {
+  float: none;
+  display:inline-block;
+  vertical-align: middle;
+  width:180px
+}
